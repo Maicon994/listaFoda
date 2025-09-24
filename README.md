@@ -6,8 +6,8 @@
 - Adicionar item na lista;
 - Remover todos os itens da lista (limpar);
 - Remover item específico;
-- Dizer a quantidade de itens comprados (em desenvolvimento);
-- Dizer a quantidade de itens pendentes (em desenvolvimento).
+- Dizer a quantidade de itens comprados;
+- Dizer a quantidade de itens pendentes.
 
 # Tecnologias Utilizadas
 - HTML
