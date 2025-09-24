@@ -18,8 +18,8 @@
 - Clique no botão "<> Code" deste projeto, depois clique na opção "Download zip", escolha uma pasta de destino para o arquivo e espere instalar. Feito isso, ache-o na pasta em que o colocou e com o botão direito extraia o arquivo. Procure pelo arquivo .html, ele provavelmente estará com a logo do seu navegador, então é só clicar nele e abrir no seu navegador.
 
 ## Estrutura da pasta
-- index.html
 - README.md
+- index.html
 - script.js
 - style.css
 
